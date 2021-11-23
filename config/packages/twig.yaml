@@ -1,5 +1,5 @@
 twig:
-    form_themes: ['bootstrap_4_layout.html.twig']
+    form_themes: ['bootstrap_4_horizontal_layout.html.twig']
 
 when@test:
     twig:

@@ -30,7 +30,7 @@ class Category
     private $create_date;
 
     /**
-     * @ORM\OneToMany(targetEntity=Content::class, mappedBy="category")
+     * @ORM\OneToMany(targetEntity=Content::class, mappedBy="category", cascade={"remove"})
      */
     private $contents;
 
