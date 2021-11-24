@@ -25,10 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c828a322-e471-4347-9c19-1b1c7fdd8bf2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,6 +188,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -202,7 +207,8 @@
       <workItem from="1637751965903" duration="903000" />
       <workItem from="1637752915208" duration="812000" />
       <workItem from="1637753785583" duration="234000" />
-      <workItem from="1637754040037" duration="720000" />
+      <workItem from="1637754040037" duration="1872000" />
+      <workItem from="1637755944547" duration="1063000" />
     </task>
     <servers />
   </component>
